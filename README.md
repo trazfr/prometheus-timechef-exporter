@@ -33,7 +33,7 @@ config.json:
     "listen": ":9091",
     "user": "mail@example.com",
     "password": "MyPassword",
-    "timeout: 20
+    "timeout": 20
 }
 ```
 
